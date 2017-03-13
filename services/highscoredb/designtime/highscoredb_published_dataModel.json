@@ -1,0 +1,7 @@
+{
+  "description" : "highscoredb",
+  "draft" : false,
+  "name" : "highscoredb",
+  "packageName" : "com.test1.highscoredb",
+  "tables" : [ ]
+}
